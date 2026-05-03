@@ -1,2 +1,3 @@
-# pokemon-crystal-encounters-txt
-Lists of Pokémon Crystal encounters by location and by species.
+# POKéMON Crystal Encounters .txt for quick reference
+
+These are simple .txt files containing Pokémon Crystal encounters by species and by locations.
