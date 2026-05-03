@@ -1,0 +1,1523 @@
+NEW BARK TOWN	
+
+	Tentacool / 90 / 90 / 90 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Tentacool / 15 / 15 / 15 / Old Rod
+	Chinchou / 20 / 20 / 20 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Shellder / 35 / 35 / 35 / Good Rod
+	Chinchou / 40 / 40 / 40 / Super Rod
+	Shellder / 30 / 30 / 30 / Super Rod
+	Tentacruel / 20 / 20 / 20 / Super Rod
+	
+ROUTE 29	
+
+	Hoothoot / - / - / 55 / Grass
+	Hoppip / 5 / 5 / - / Grass
+	Pidgey / 50 / 50 / - / Grass
+	Rattata / 5 / 5 / - / Grass
+	Rattata / - / - / 45 / Grass
+	Sentret / 40 / 40 / - / Grass
+	Exeggcute / 20 / 20 / 20 / Headbutt (Common)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Common)
+	Ledyba / 15 / 15 / 15 / Headbutt (Common)
+	Spinarak / 15 / 15 / 15 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Rare)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Rare)
+	Pineco / 30 / 30 / 30 / Headbutt (Rare)
+	
+ROUTE 46	
+
+	Geodude / 50 / 50 / 55 / Grass
+	Phanpy / 5 / - / - / Grass
+	Rattata / 15 / 20 / 50 / Grass
+	Spearow / 30 / 30 / - / Grass
+	Aipom / 20 / 20 / 20 / Headbutt (Common)
+	Spearow / 80 / 80 / 80 / Headbutt (Common)
+	Aipom / 20 / 20 / 20 / Headbutt (Rare)
+	Spearow / 30 / 30 / 30 / Headbutt (Rare)
+	Heracross / 50 / 50 / 50 / Headbutt (Rare)
+	
+CHERRYGROVE	
+
+	Tentacool / 90 / 90 / 90 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Krabby / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Corsola / 10 / 10 / - / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Staryu / - / - / 10 / Good Rod
+	Corsola / 30 / 30 / - / Super Rod
+	Kingler / 10 / 10 / 10 / Super Rod
+	Krabby / 10 / 10 / 10 / Super Rod
+	Staryu / - / - / 30 / Super Rod
+	
+ROUTE 30	
+
+	Caterpie / 50 / 50 / - / Grass
+	Hoothoot / - / - / 45 / Grass
+	Hoppip / 5 / 5 / - / Grass
+	Ledyba / 30 / - / - / Grass
+	Pidgey / 10 / 40 / - / Grass
+	Poliwag / - / - / 20 / Grass
+	Spinarak / - / - / 30 / Grass
+	Weedle / 5 / 5 / - / Grass
+	Zubat / - / - / 5 / Grass
+	Poliwag / 90 / 90 / 90 / Surfing
+	Poliwhirl / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Poliwag / 15 / 15 / 15 / Old Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Poliwag / 65 / 65 / 65 / Good Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Poliwag / 70 / 70 / 70 / Super Rod
+	Poliwhirl / 10 / 10 / 10 / Super Rod
+	Exeggcute / 20 / 20 / 20 / Headbutt (Common)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Common)
+	Ledyba / 15 / 15 / 15 / Headbutt (Common)
+	Spinarak / 15 / 15 / 15 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Rare)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Rare)
+	Pineco / 30 / 30 / 30 / Headbutt (Rare)
+	
+ROUTE 31	
+
+	Bellsprout / 20 / 20 / 20 / Grass
+	Caterpie / 30 / 30 / - / Grass
+	Gastly / - / - / 5 / Grass
+	Hoothoot / - / - / 10 / Grass
+	Hoppip / 5 / 5 / - / Grass
+	Ledyba / 30 / - / - / Grass
+	Pidgey / 10 / 40 / - / Grass
+	Poliwag / - / - / 30 / Grass
+	Spinarak / - / - / 30 / Grass
+	Weedle / 5 / 5 / - / Grass
+	Zubat / - / - / 5 / Grass
+	Exeggcute / 20 / 20 / 20 / Headbutt (Common)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Common)
+	Ledyba / 15 / 15 / 15 / Headbutt (Common)
+	Spinarak / 15 / 15 / 15 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Rare)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Rare)
+	Pineco / 30 / 30 / 30 / Headbutt (Rare)
+	Poliwag / 90 / 90 / 90 / Surfing
+	Poliwhirl / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Poliwag / 15 / 15 / 15 / Old Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Poliwag / 65 / 65 / 65 / Good Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Poliwag / 70 / 70 / 70 / Super Rod
+	Poliwhirl / 10 / 10 / 10 / Super Rod
+	
+DARK CAVE	
+
+	Dunsparce / 1 / 1 / 1 / Walking (Violet City Side)
+	Geodude / 60 / 60 / 60 / Walking (Violet City Side)
+	Teddiursa / 5 / - / - / Walking (Violet City Side)
+	Zubat / 34 / 39 / 39 / Walking (Violet City Side)
+	Dunsparce / 40 / 40 / 40 / Swarm (Violet City Side)
+	Geodude / 40 / 40 / 40 / Swarm (Violet City Side)
+	Zubat / 20 / 20 / 40 / Swarm (Violet City Side)
+	Geodude / 30 / 30 / 30 / Walking (Blackthorn City Side)
+	Golbat / 5 / 5 / 5 / Walking (Blackthorn City Side)
+	Graveler / 20 / 20 / 20 / Walking (Blackthorn City Side)
+	Teddiursa / 5 / - / - / Walking (Blackthorn City Side)
+	Ursaring / 10 / 15 / - / Walking (Blackthorn City Side)
+	Wobbuffet / - / - / 15 / Walking (Blackthorn City Side)
+	Zubat / 30 / 30 / 30 / Walking (Blackthorn City Side)
+	Krabby / 90 / 90 / 90 / Rock Smash
+	Shuckle / 10 / 10 / 10 / Rock Smash
+	Magikarp / 100 / 100 / 100 / Surfing
+	Goldeen / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Goldeen / 65 / 65 / 65 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Goldeen / 70 / 70 / 70 / Super Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Seaking / 10 / 10 / 10 / Super Rod
+	
+
+VIOLET	
+
+	Togepi (Egg) / 100 / 100 / 100 / Gift from Prof. Aide
+	Onix / 100 / 100 / 100 / Trade for Bellsprout
+	Poliwag / 90 / 90 / 90 / Surfing
+	Poliwhirl / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Poliwag / 15 / 15 / 15 / Old Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Poliwag / 65 / 65 / 65 / Good Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Poliwag / 80 / 80 / 80 / Super Rod
+	
+SPROUT TOWER	
+
+	Gastly / - / - / 85 / Walking
+	Rattata / 100 / 100 / 15 / Walking
+
+ROUTE 36
+
+	Sudowoodo / 100 / 100 / 100 / Water the "tree"
+	Bellsprout / 20 / 20 / 20 / Grass
+	Gastly / - / - / 5 / Grass
+	Growlithe / 10 / 10 / - / Grass
+	Hoothoot / - / - / 45 / Grass
+	Ledyba / 30 / - / - / Grass
+	Pidgey / 40 / 70 / - / Grass
+	Spinarak / - / - / 30 / Grass
+	Exeggcute / 20 / 20 / 20 / Headbutt (Common)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Common)
+	Ledyba / 15 / 15 / 15 / Headbutt (Common)
+	Spinarak / 15 / 15 / 15 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Rare)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Rare)
+	Pineco / 30 / 30 / 30 / Headbutt (Rare)
+	
+RUINS OF ALPH	
+
+	Unown / 100 / 100 / 100 / Walk in statue-filled room
+	Natu / 90 / 90 / 90 / Grass (outside the ruins)
+	Quagsire / - / - / 5 / Grass (outside the ruins)
+	Smeargle / 10 / 10 / - / Grass (outside the ruins)
+	Wooper / - / - / 5 / Grass (outside the ruins)
+	Quagsire / 40 / 40 / 40 / Surfing (outside the ruins)
+	Wooper / 60 / 60 / 60 / Surfing (outside the ruins)
+	Magikarp / 85 / 85 / 85 / Old Rod (outside the ruins)
+	Poliwag / 15 / 15 / 15 / Old Rod (outside the ruins)
+	Magikarp / 35 / 35 / 35 / Good Rod (outside the ruins)
+	Poliwag / 65 / 65 / 65 / Good Rod (outside the ruins)
+	Magikarp / 20 / 20 / 20 / Super Rod (outside the ruins)
+	Poliwag / 70 / 70 / 70 / Super Rod (outside the ruins)
+	Poliwhirl / 10 / 10 / 10 / Super Rod (outside the ruins)
+	
+ROUTE 32	
+
+	Bellsprout / 20 / 20 / 20 / Grass
+	Ekans / 30 / 30 / - / Grass
+	Gastly / - / - / 5 / Grass
+	Hoothoot / - / - / 5 / Grass
+	Hoppip / 15 / 15 / - / Grass
+	Pidgey / 5 / 5 / - / Grass
+	Rattata / 30 / 30 / 30 / Grass
+	Wooper / - / - / 30 / Grass
+	Zubat / - / - / 10 / Grass
+	Ekans / 15 / 15 / 15 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Common)
+	Hoothoot / 65 / 65 / 65 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Rare)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Rare)
+	Pineco / 30 / 30 / 30 / Headbutt (Rare)
+	Quagsire / 30 / 30 / 30 / Surfing
+	Tentacool / 60 / 60 / 60 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Tentacool / 15 / 15 / 15 / Old Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Tentacool / 65 / 65 / 65 / Good Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Qwilfish / 10 / 10 / 10 / Super Rod
+	Tentacool / 70 / 70 / 70 / Super Rod
+	Qwilfish / 15 / 15 / 15 / Swarm (Old Rod)
+	Qwilfish / 65 / 65 / 65 / Swarm (Good Rod)
+	Qwilfish / 100 / 100 / 100 / Swarm (Super Rod)
+	
+UNION CAVE 1F	
+
+	Geodude / 30 / 30 / 30 / Walking
+	Onix / 5 / 5 / 5 / Walking
+	Rattata / 10 / 10 / 40 / Walking
+	Sandshrew / 30 / 30 / - / Walking
+	Wooper / - / - / 5 / Walking
+	Zubat / 25 / 25 / 5 / Walking
+	Quagsire / 40 / 40 / 40 / Surfing
+	Wooper / 60 / 60 / 60 / Surfing
+	Goldeen / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Goldeen / 65 / 65 / 65 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Goldeen / 70 / 70 / 70 / Super Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Seaking / 10 / 10 / 10 / Super Rod
+	
+UNION CAVE B1F	
+
+	Geodude / 30 / 30 / 30 / Walking
+	Onix / 10 / 10 / 10 / Walking
+	Rattata / 10 / 10 / 10 / Walking
+	Wooper / - / - / 20 / Walking
+	Zubat / 50 / - / 30 / Walking
+	Quagsire / 40 / 50 / 40 / Surfing
+	Wooper / 60 / 60 / 60 / Surfing
+	Goldeen / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Goldeen / 65 / 65 / 65 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Goldeen / 70 / 70 / 70 / Super Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Seaking / 10 / 10 / 10 / Super Rod
+	
+UNION CAVE B2F	
+
+	Lapras / 100 / 100 / 100 / Friday Event
+	Geodude / 5 / 5 / 5 / Walking
+	Golbat / 30 / 30 / 20 / Walking
+	Onix / 5 / 5 / 5 / Walking
+	Quagsire / - / - / - / Walking
+	Raticate / 10 / 10 / 10 / Walking
+	Zubat / 50 / 50 / 30 / Walking
+	Quagsire / 30 / 30 / 30 / Surfing
+	Tentacool / 60 / 60 / 60 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Tentacool / 15 / 15 / 15 / Old Rod
+	Chinchou / 20 / 20 / 20 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Shellder / 10 / 10 / 10 / Good Rod
+	Tentacool / 35 / 35 / 35 / Good Rod
+	Chinchou / 40 / 40 / 40 / Super Rod
+	Lanturn / 10 / 10 / 10 / Super Rod
+	Shellder / 30 / 30 / 30 / Super Rod
+	Tentacool / 20 / 20 / 20 / Super Rod
+	
+ROUTE 33	
+
+	Ekans / 5 / 5 / - / Grass
+	Geodude / 20 / 20 / 20 / Grass
+	Hoppip / 15 / 15 / - / Grass
+	Rattata / 30 / 30 / 40 / Grass
+	Spearow / 30 / 30 / - / Grass
+	Zubat / - / - / 40 / Grass
+	Aipom / 20 / 20 / 20 / Headbutt (Common)
+	Ekans / 15 / 15 / 15 / Headbutt (Common)
+	Spearow / 65 / 65 / 65 / Headbutt (Common)
+	Aipom / 20 / 20 / 20 / Headbutt (Rare)
+	Heracross / 30 / 30 / 30 / Headbutt (Rare)
+	Spearow / 50 / 50 / 50 / Headbutt (Rare)
+	Aipom / 20 / 20 / 20 / Headbutt (Common)
+	Ekans / 15 / 15 / 15 / Headbutt (Common)
+	Spearow / 65 / 65 / 65 / Headbutt (Common)
+	Aipom / 20 / 20 / 20 / Headbutt (Rare)
+	Heracross / 30 / 30 / 30 / Headbutt (Rare)
+	Spearow / 50 / 50 / 50 / Headbutt (Rare)
+	
+SLOWPOKE WELL B1F	
+
+	Slowpoke / 15 / 15 / 15 / Walking
+	Zubat / 85 / 85 / 85 / Walking
+	Slowpoke / 100 / 100 / 100 / Surfing
+	Goldeen / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Goldeen / 65 / 65 / 65 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Goldeen / 70 / 70 / 70 / Super Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Seaking / 10 / 10 / 10 / Super Rod
+	
+SLOWPOKE WELL B2F
+	
+	Golbat / 5 / 5 / 5 / Walking
+	Slowpoke / 15 / 15 / 15 / Walking
+	Zubat / 80 / 80 / 80 / Walking
+	Slowbro / 10 / 10 / 10 / Surfing
+	Slowpoke / 90 / 90 / 90 / Surfing
+	Goldeen / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Goldeen / 65 / 65 / 65 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Goldeen / 70 / 70 / 70 / Super Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Seaking / 10 / 10 / 10 / Super Rod
+	
+ILEX FOREST	
+
+	Caterpie / 30 / 30 / - / Walking
+	Hoothoot / - / - / 5 / Walking
+	Kakuna / 10 / 10 / - / Walking
+	Metapod / 20 / 20 / - / Walking
+	Oddish / - / - / 50 / Walking
+	Paras / 5 / 5 / 5 / Walking
+	Pidgey / 5 / 5 / - / Walking
+	Psyduck / - / - / 10 / Walking
+	Venonat / - / - / 50 / Walking
+	Weedle / 30 / 30 / - / Walking
+	Beedrill / 5 / 5 / 5 / Headbutt (Common)
+	Butterfree / 5 / 5 / 5 / Headbutt (Common)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Common)
+	Noctowl / 10 / 10 / 10 / Headbutt (Common)
+	Pineco / 30 / 30 / 30 / Headbutt (Common)
+	Caterpie / 15 / 15 / 15 / Headbutt (Rare)
+	Hoothoot / 60 / 60 / 60 / Headbutt (Rare)
+	Kakuna / 5 / 5 / 5 / Headbutt (Rare)
+	Metapod / 5 / 5 / 5 / Headbutt (Rare)
+	Weedle / 15 / 15 / 15 / Headbutt (Rare)
+	Golduck / 10 / 10 / 10 / Surfing
+	Psyduck / 90 / 90 / 90 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Poliwag / 15 / 15 / 15 / Old Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Poliwag / 65 / 65 / 65 / Good Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Poliwag / 70 / 70 / 70 / Super Rod
+	Poliwhirl / 10 / 10 / 10 / Super Rod
+	
+ROUTE 34	
+
+	Cleffa / 14 / 14 / 14 / Hatch Odd Egg (1/7 chance)
+	Elekid / 14 / 14 / 14 / Hatch Odd Egg (1/7 chance)
+	Igglybuff / 14 / 14 / 14 / Hatch Odd Egg (1/7 chance)
+	Magby / 14 / 14 / 14 / Hatch Odd Egg (1/7 chance)
+	Pichu / 14 / 14 / 14 / Hatch Odd Egg (1/7 chance)
+	Smoochum / 14 / 14 / 14 / Hatch Odd Egg (1/7 chance)
+	Tyrogue / 14 / 14 / 14 / Hatch Odd Egg (1/7 chance)
+	Abra / 10 / 10 / 10 / Grass
+	Ditto / 5 / 5 / 5 / Grass
+	Drowzee / - / - / 30 / Grass
+	Hoothoot / - / - / 20 / Grass
+	Jigglypuff / 5 / 5 / 5 / Grass
+	Pidgey / 20 / 20 / - / Grass
+	Rattata / 30 / 30 / 30 / Grass
+	Snubbull / 30 / 30 / - / Grass
+	Exeggcute / 20 / 20 / 20 / Headbutt (Common)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Common)
+	Ledyba / 15 / 15 / 15 / Headbutt (Common)
+	Spinarak / 15 / 15 / 15 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Rare)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Rare)
+	Pineco / 30 / 30 / 30 / Headbutt (Rare)
+	Tentacool / 90 / 90 / 90 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Krabby / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Corsola / 10 / 10 / - / Good Rod
+	Krabby / 55 / 55 / 55 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Staryu / - / - / 10 / Good Rod
+	Corsola / 30 / 30 / - / Super Rod
+	Kingler / 10 / 10 / 10 / Super Rod
+	Krabby / 60 / 60 / 60 / Super Rod
+	Staryu / - / - / 30 / Super Rod
+	
+ROUTE 35	
+
+	Abra / 10 / 10 / 10 / Grass
+	Ditto / 4 / 4 / 4 / Grass
+	Drowzee / - / - / 30 / Grass
+	Growlithe / 20 / 20 / 20 / Grass
+	Hoothoot / - / - / 30 / Grass
+	Jigglypuff / 5 / 5 / 5 / Grass
+	Pidgey / 30 / 30 / 30 / Grass
+	Psyduck / - / - / 20 / Grass
+	Snubbull / 30 / 30 / 30 / Grass
+	Yanma / 1 / 1 / 1 / Grass
+	Ditto / 5 / 5 / 5 / Swarm: Grass
+	Hoothoot / - / - / 5 / Swarm: Grass
+	Nidoran♀ / 30 / 30 / 30 / Swarm: Grass
+	Nidoran♂ / 30 / 30 / 30 / Swarm: Grass
+	Pidgey / 5 / 5 / - / Swarm: Grass
+	Yanma / 30 / 30 / 30 / Swarm: Grass
+	Exeggcute / 20 / 20 / 20 / Headbutt (Common)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Common)
+	Ledyba / 15 / 15 / 15 / Headbutt (Common)
+	Spinarak / 15 / 15 / 15 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Rare)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Rare)
+	Pineco / 30 / 30 / 30 / Headbutt (Rare)
+	Golduck / 10 / 10 / 10 / Surfing
+	Psyduck / 90 / 90 / 90 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Poliwag / 15 / 15 / 15 / Old Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Poliwag / 65 / 65 / 65 / Good Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Poliwag / 70 / 70 / 70 / Super Rod
+	Poliwhirl / 10 / 10 / 10 / Super Rod
+	
+NAT PARK	
+
+	Caterpie / 5 / 5 / 40 / Grass (no Contest)
+	Ledyba / 20 / - / - / Grass (no Contest)
+	Nidoran♀ / 30 / 30 / - / Grass (no Contest)
+	Nidoran♂ / 30 / 30 / - / Grass (no Contest)
+	Pidgey / 10 / 10 / - / Grass (no Contest)
+	Psyduck / - / - / 30 / Grass (no Contest)
+	Spinarak / - / - / 40 / Grass (no Contest)
+	Sunkern / - / 20 / - / Grass (no Contest)
+	Venonat / - / - / 10 / Grass (no Contest)
+	Weedle / 5 / 5 / - / Grass (no Contest)
+	Beedrill / 5 / 5 / 5 / Grass (during Contest)
+	Butterfree / 5 / 5 / 5 / Grass (during Contest)
+	Caterpie / 20 / 20 / 20 / Grass (during Contest)
+	Kakuna / 10 / 10 / 10 / Grass (during Contest)
+	Metapod / 10 / 10 / 10 / Grass (during Contest)
+	Paras / 10 / 10 / 10 / Grass (during Contest)
+	Pinsir / 5 / 5 / 5 / Grass (during Contest)
+	Scyther / 5 / 5 / 5 / Grass (during Contest)
+	Venonat / 10 / 10 / 10 / Grass (during Contest)
+	Weedle / 20 / 20 / 20 / Grass (during Contest)
+	Krabby / 100 / 100 / 100 / Super Rod
+	
+ROUTE 37	
+
+	Ariados / - / - / 5 / Grass
+	Growlithe / 40 / 40 / - / Grass
+	Hoothoot / - / - / 20 / Grass
+	Ledian / 5 / - / - / Grass
+	Ledyba / 30 / - / - / Grass
+	Noctowl / - / - / 5 / Grass
+	Pidgeotto / 5 / 5 / - / Grass
+	Pidgey / 20 / 55 / - / Grass
+	Spinarak / - / - / 30 / Grass
+	Stantler / - / - / 40 / Grass
+	Exeggcute / 20 / 20 / 20 / Headbutt (Common)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Common)
+	Ledyba / 15 / 15 / 15 / Headbutt (Common)
+	Spinarak / 15 / 15 / 15 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Rare)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Rare)
+	Pineco / 30 / 30 / 30 / Headbutt (Rare)
+	
+
+EECRUTEAK	
+	Poliwag / 90 / 90 / 90 / Surfing
+	Poliwhirl / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Poliwag / 15 / 15 / 15 / Old Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Poliwag / 65 / 65 / 65 / Good Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Poliwag / 70 / 70 / 70 / Super Rod
+	Poliwhirl / 10 / 10 / 10 / Super Rod
+	
+BURNED TOWER	
+
+	Koffing / 30 / 30 / 30 / Walking (1F)
+	Raticate / 5 / 5 / 5 / Walking (1F)
+	Rattata / 55 / 55 / 55 / Walking (1F)
+	Zubat / 10 / 10 / 10 / Walking (1F)
+	Koffing / 59 / 59 / 59 / Walking (B1F)
+	Rattata / 30 / 30 / 30 / Walking (B1F)
+	Weezing / 1 / 1 / 1 / Walking (B1F)
+	Zubat / 10 / 10 / 10 / Walking (B1F)
+	Krabby / 90 / 90 / 90 / Rock Smash (1F & B1F)
+	Shuckle / 10 / 10 / 10 / Rock Smash (1F & B1F)
+	
+ROUTE 38	
+
+	Magnemite / 20 / 20 / 20 / Grass
+	Meowth / - / - / 40 / Grass
+	Miltank / 5 / 5 / - / Grass
+	Pidgeotto / - / - / 10 / Grass
+	Raticate / 10 / 10 / - / Grass
+	Rattata / 30 / 30 / 30 / Grass
+	Tauros / 30 / 30 / - / Grass
+	Exeggcute / 20 / 20 / 20 / Headbutt (Common)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Common)
+	Ledyba / 15 / 15 / 15 / Headbutt (Common)
+	Spinarak / 15 / 15 / 15 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Rare)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Rare)
+	Pineco / 30 / 30 / 30 / Headbutt (Rare)
+	
+ROUTE 39	
+
+	Magnemite / 20 / 20 / 20 / Grass
+	Meowth / - / - / 40 / Grass
+	Miltank / 5 / 5 / - / Grass
+	Pidgeotto / - / - / 10 / Grass
+	Raticate / 10 / 10 / - / Grass
+	Rattata / 30 / 30 / 30 / Grass
+	Tauros / 30 / 30 / - / Grass
+	Exeggcute / 20 / 20 / 20 / Headbutt (Common)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Common)
+	Ledyba / 15 / 15 / 15 / Headbutt (Common)
+	Spinarak / 15 / 15 / 15 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Rare)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Rare)
+	Pineco / 30 / 30 / 30 / Headbutt (Rare)
+	
+OLIVINE	
+
+	Tentacool / 90 / 90 / 90 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Krabby / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Corsola / 10 / 10 / - / Good Rod
+	Krabby / 55 / 55 / 55 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Staryu / - / - / 10 / Good Rod
+	Corsola / 60 / 60 / - / Super Rod
+	Kingler / 20 / 20 / 20 / Super Rod
+	Krabby / 20 / 20 / 20 / Super Rod
+	Staryu / - / - / 60 / Super Rod
+	
+ROUTE 40	
+
+	Krabby / 90 / 90 / 90 / Rock Smash
+	Shuckle / 10 / 10 / 10 / Rock Smash
+	Tentacool / 90 / 90 / 90 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Krabby / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Corsola / 10 / 10 / 10 / Good Rod
+	Krabby / 55 / 55 / 55 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Staryu / - / - / - / Good Rod
+	Corsola / 30 / 30 / 30 / Super Rod
+	Kingler / 10 / 10 / 10 / Super Rod
+	Krabby / 60 / 60 / 60 / Super Rod
+	Staryu / - / - / - / Super Rod
+	
+ROUTE 41	
+
+	Mantine / 10 / 10 / 10 / Surfing
+	Tentacool / 60 / 60 / 60 / Surfing
+	Tentacruel / 30 / 30 / 30 / Surfing
+	Krabby / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Corsola / 10 / 10 / 10 / Good Rod
+	Krabby / 55 / 55 / 55 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Staryu / - / - / - / Good Rod
+	Corsola / 30 / 30 / 30 / Super Rod
+	Kingler / 10 / 10 / 10 / Super Rod
+	Krabby / 60 / 60 / 60 / Super Rod
+	Staryu / - / - / - / Super Rod
+	
+CIANWOOD	
+
+	Krabby / 90 / 90 / 90 / Rock Smash
+	Shuckle / 10 / 10 / 10 / Rock Smash
+	Tentacool / 90 / 90 / 90 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Krabby / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Corsola / 10 / 10 / 10 / Good Rod
+	Krabby / 55 / 55 / 55 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Staryu / - / - / - / Good Rod
+	Corsola / 30 / 30 / 30 / Super Rod
+	Kingler / 10 / 10 / 10 / Super Rod
+	Krabby / 60 / 60 / 60 / Super Rod
+	Staryu / - / - / - / Super Rod
+	
+ROUTE 42	
+
+	Arbok / 5 / 5 / - / Grass
+	Ekans / 30 / 30 / - / Grass
+	Fearow / 5 / 5 / - / Grass
+	Golbat / - / - / 15 / Grass
+	Marill / - / - / 5 / Grass
+	Raticate / 10 / 10 / 20 / Grass
+	Rattata / 20 / 20 / 30 / Grass
+	Spearow / 30 / 30 / - / Grass
+	Zubat / - / - / 30 / Grass
+	Aipom / 20 / 20 / 20 / Headbutt (Common)
+	Ekans / 15 / 15 / 15 / Headbutt (Common)
+	Spearow / 65 / 65 / 65 / Headbutt (Common)
+	Aipom / 20 / 20 / 20 / Headbutt (Rare)
+	Heracross / 30 / 30 / 30 / Headbutt (Rare)
+	Spearow / 50 / 50 / 50 / Headbutt (Rare)
+	Goldeen / 90 / 90 / 90 / Surfing
+	Seaking / 10 / 10 / 10 / Surfing
+	Goldeen / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Goldeen / 65 / 65 / 65 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Goldeen / 70 / 70 / 70 / Super Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Seaking / 10 / 10 / 10 / Super Rod
+	
+MT MORTAR 2F	
+
+	Geodude / - / 20 / 30 / Walking
+	Golbat / - / 5 / 15 / Walking
+	Graveler / 30 / 30 / 30 / Walking
+	Machoke / 30 / 30 / - / Walking
+	Machop / - / 5 / - / Walking
+	Marill / - / - / 5 / Walking
+	Raticate / - / 10 / 20 / Walking
+	Goldeen / 60 / 60 / 60 / Surfing
+	Marill / 30 / 30 / 30 / Surfing
+	Seaking / 10 / 10 / 10 / Surfing
+	Goldeen / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Goldeen / 65 / 65 / 65 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Goldeen / 70 / 70 / 70 / Super Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Seaking / 10 / 10 / 10 / Super Rod
+	
+MT MORTAR 1F	
+
+	Geodude / 5 / 5 / 5 / Walking
+	Golbat / 10 / 10 / 10 / Walking
+	Machop / - / 20 / - / Walking
+	Marill / - / - / 20 / Walking
+	Raticate / 5 / 5 / 5 / Walking
+	Rattata / 30 / 30 / 30 / Walking
+	Zubat / 30 / 30 / 30 / Walking
+	Goldeen / 60 / 60 / 60 / Surfing
+	Marill / 30 / 30 / 30 / Surfing
+	Seaking / 10 / 10 / 10 / Surfing
+	Goldeen / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Goldeen / 65 / 65 / 65 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Goldeen / 70 / 70 / 70 / Super Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Seaking / 10 / 10 / 10 / Super Rod
+	
+MT MORTAR B1F	
+
+	Geodude / 30 / 30 / 30 / Walking
+	Golbat / 5 / 5 / 5 / Walking
+	Machop / - / 20 / - / Walking
+	Marill / - / - / 5 / Walking
+	Raticate / - / 10 / 20 / Walking
+	Rattata / 30 / 30 / 30 / Walking
+	Zubat / - / 5 / 10 / Walking
+	
+MT MORTAR B2F	
+
+	Geodude / 5 / 5 / 5 / Walking
+	Golbat / 20 / 20 / 20 / Walking
+	Machop / - / 10 / - / Walking
+	Marill / - / - / 10 / Walking
+	Raticate / 5 / 5 / 5 / Walking
+	Zubat / 60 / 60 / 60 / Walking
+	Goldeen / 60 / 60 / 60 / Surfing
+	Marill / 30 / 30 / 30 / Surfing
+	Seaking / 10 / 10 / 10 / Surfing
+	Goldeen / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Goldeen / 65 / 65 / 65 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Goldeen / 70 / 70 / 70 / Super Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Seaking / 10 / 10 / 10 / Super Rod
+	
+ROUTE 43	
+
+	Farfetch'd / 20 / 20 / - / Grass
+	Furret / 15 / 15 / - / Grass
+	Noctowl / - / - / 30 / Grass
+	Pidgeotto / 30 / 30 / 30 / Grass
+	Raticate / 5 / 5 / 25 / Grass
+	Sentret / 30 / 30 / - / Grass
+	Venomoth / - / - / 5 / Grass
+	Venonat / - / - / 40 / Grass
+	Exeggcute / 20 / 20 / 20 / Headbutt (Common)
+	Hoothoot / 65 / 65 / 65 / Headbutt (Common)
+	Venonat / 15 / 15 / 15 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Rare)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Rare)
+	Pineco / 30 / 30 / 30 / Headbutt (Rare)
+	Magikarp / 100 / 100 / 100 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Poliwag / 15 / 15 / 15 / Old Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Poliwag / 65 / 65 / 65 / Good Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Poliwag / 80 / 80 / 80 / Super Rod
+	
+LAKE OF RAGE	
+
+	Shiny Gyarados / 100 / 100 / 100 / Story event
+	Exeggcute / 20 / 20 / 20 / Headbutt (Common)
+	Hoothoot / 65 / 65 / 65 / Headbutt (Common)
+	Venonat / 15 / 15 / 15 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Rare)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Rare)
+	Pineco / 30 / 30 / 30 / Headbutt (Rare)
+	Gyarados / 10 / 10 / 10 / Surfing
+	Magikarp / 90 / 90 / 90 / Surfing
+	Magikarp / 100 / 100 / 100 / Old Rod
+	Gyarados / 10 / 10 / 10 / Good Rod
+	Magikarp / 90 / 90 / 90 / Good Rod
+	Gyarados / 30 / 30 / 30 / Super Rod
+	Magikarp / 70 / 70 / 70 / Super Rod
+	
+WHIRL ISLANDS 1F
+	
+	Golbat / 5 / 5 / 10 / Walking
+	Krabby / 40 / 40 / 60 / Walking
+	Seel / 25 / 25 / - / Walking
+	Zubat / 30 / 30 / 30 / Walking
+	Horsea / 30 / 30 / 30 / Surfing
+	Tentacool / 60 / 60 / 60 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Krabby / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Horsea / 10 / 10 / 10 / Good Rod
+	Krabby / 55 / 55 / 55 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Horsea / 30 / 30 / 30 / Super Rod
+	Kingler / 20 / 20 / 20 / Super Rod
+	Krabby / 40 / 40 / 40 / Super Rod
+	Seadra / 10 / 10 / 10 / Super Rod
+	
+WHIRL ISLANDS B1F
+	
+	Golbat / 5 / 5 / 10 / Walking
+	Krabby / 40 / 40 / 60 / Walking
+	Seel / 25 / 25 / - / Walking
+	Zubat / 30 / 30 / 30 / Walking
+	
+WHIRL ISLANDS B2F
+	
+	Golbat / 5 / 5 / 10 / Walking
+	Krabby / 40 / 40 / 60 / Walking
+	Seel / 25 / 25 / - / Walking
+	Zubat / 30 / 30 / 30 / Walking
+	Horsea / 90 / 90 / 90 / Surfing
+	Tentacool / 10 / 10 / 10 / Surfing
+	Krabby / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Horsea / 10 / 10 / 10 / Good Rod
+	Krabby / 55 / 55 / 55 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Horsea / 30 / 30 / 30 / Super Rod
+	Kingler / 20 / 20 / 20 / Super Rod
+	Krabby / 40 / 40 / 40 / Super Rod
+	Seadra / 10 / 10 / 10 / Super Rod
+	
+WHIRL ISLANDS LUGIA CHAMBER	
+
+	Lugia / 100 / 100 / 100 / Silver Wing
+	Golbat / 5 / 5 / 10 / Walking
+	Krabby / 40 / 40 / 60 / Walking
+	Seel / 25 / 25 / - / Walking
+	Zubat / 30 / 30 / 30 / Walking
+	Horsea / 60 / 60 / 60 / Surfing
+	Seadra / 10 / 10 / 10 / Surfing
+	Tentacool / 30 / 30 / 30 / Surfing
+	Krabby / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Horsea / 10 / 10 / 10 / Good Rod
+	Krabby / 55 / 55 / 55 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Horsea / 30 / 30 / 30 / Super Rod
+	Kingler / 20 / 20 / 20 / Super Rod
+	Krabby / 40 / 40 / 40 / Super Rod
+	Seadra / 10 / 10 / 10 / Super Rod
+	
+ROUTE 44	
+
+	Bellsprout / 20 / 20 / 20 / Grass
+	Lickitung / 40 / 40 / - / Grass
+	Poliwag / - / - / 30 / Grass
+	Poliwhirl / - / - / 10 / Grass
+	Tangela / 30 / 30 / 30 / Grass
+	Weepinbell / 10 / 10 / 10 / Grass
+	Aipom / 20 / 20 / 20 / Headbutt (Common)
+	Spearow / 80 / 80 / 80 / Headbutt (Common)
+	Aipom / 20 / 20 / 20 / Headbutt (Rare)
+	Heracross / 30 / 30 / 30 / Headbutt (Rare)
+	Spearow / 50 / 50 / 50 / Headbutt (Rare)
+	Poliwag / 90 / 90 / 90 / Surfing
+	Poliwhirl / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Poliwag / 15 / 15 / 15 / Old Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Poliwag / 65 / 65 / 65 / Good Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Poliwag / 80 / 80 / 80 / Super Rod
+	
+ICE PATH 1F	
+
+	Golbat / 30 / 30 / 30 / Walking
+	Jynx / 1 / 1 / 1 / Walking
+	Swinub / 39 / 39 / 39 / Walking
+	Zubat / 30 / 30 / 30 / Walking
+	
+ICE PATH B1F	
+
+	Delibird / - / - / 40 / Walking
+	Golbat / 29 / 29 / 29 / Walking
+	Jynx / 1 / 1 / - / Walking
+	Sneasel / - / - / 1 / Walking
+	Swinub / 40 / 40 / - / Walking
+	Zubat / 30 / 30 / 30 / Walking
+	
+ICE PATH B2F	
+
+	Delibird / - / - / 40 / Walking
+	Golbat / 25 / 25 / 25 / Walking
+	Jynx / 5 / 5 / - / Walking
+	Sneasel / - / - / 5 / Walking
+	Swinub / 40 / 40 / - / Walking
+	Zubat / 30 / 30 / 30 / Walking
+	
+ICE PATH B3F	
+
+	Delibird / - / - / 40 / Walking
+	Golbat / 20 / 20 / 20 / Walking
+	Jynx / 5 / - / - / Walking
+	Sneasel / - / - / 10 / Walking
+	Swinub / 35 / 40 / - / Walking
+	Zubat / 30 / 30 / 30 / Walking
+	
+BLACKTHORN	
+
+	Magikarp / 100 / 100 / 100 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Poliwag / 15 / 15 / 15 / Old Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Poliwag / 65 / 65 / 65 / Good Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Poliwag / 70 / 70 / 70 / Super Rod
+	Poliwhirl / 10 / 10 / 10 / Super Rod
+	
+DRAGONS DEN	
+
+	Dratini / 10 / 10 / 10 / Surfing
+	Magikarp / 90 / 90 / 90 / Surfing
+	Magikarp / 100 / 100 / 100 / Old Rod
+	Dratini / 10 / 10 / 10 / Good Rod
+	Magikarp / 90 / 90 / 90 / Good Rod
+	Dragonair / 10 / 10 / 10 / Super Rod
+	Dratini / 30 / 30 / 30 / Super Rod
+	Magikarp / 60 / 60 / 60 / Super Rod
+	
+ROUTE 45	
+
+	Donphan / 10 / 15 / - / Grass
+	Geodude / 30 / 30 / 30 / Grass
+	Gligar / 20 / 20 / 20 / Grass
+	Graveler / 30 / 30 / 50 / Grass
+	Phanpy / 5 / - / - / Grass
+	Skarmory / 5 / 5 / - / Grass
+	Aipom / 20 / 20 / 20 / Headbutt (Common)
+	Spearow / 80 / 80 / 80 / Headbutt (Common)
+	Aipom / 20 / 20 / 20 / Headbutt (Rare)
+	Heracross / 30 / 30 / 30 / Headbutt (Rare)
+	Spearow / 50 / 50 / 50 / Headbutt (Rare)
+	Magikarp / 100 / 100 / 100 / Surfing
+	Magikarp / 100 / 100 / 100 / Old Rod
+	Dratini / 10 / 10 / 10 / Good Rod
+	Magikarp / 90 / 90 / 90 / Good Rod
+	Dragonair / 10 / 10 / 10 / Super Rod
+	Dratini / 30 / 30 / 30 / Super Rod
+	Magikarp / 60 / 60 / 60 / Super Rod
+	
+ROUTE 27
+	
+	Arbok / 30 / 30 / - / Grass
+	Dodrio / 45 / 45 / - / Grass
+	Noctowl / - / - / 40 / Grass
+	Ponyta / 5 / 5 / - / Grass
+	Quagsire / - / - / 40 / Grass
+	Raticate / 20 / 20 / 20 / Grass
+	Ekans / 15 / 15 / 15 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Common)
+	Hoothoot / 65 / 65 / 65 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Rare)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Rare)
+	Pineco / 30 / 30 / 30 / Headbutt (Rare)
+	Tentacool / 90 / 90 / 90 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Tentacool / 15 / 15 / 15 / Old Rod
+	Chinchou / 20 / 20 / 20 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Shellder / 10 / 10 / 10 / Good Rod
+	Tentacool / 35 / 35 / 35 / Good Rod
+	Chinchou / 40 / 40 / 40 / Super Rod
+	Lanturn / 10 / 10 / 10 / Super Rod
+	Shellder / 30 / 30 / 30 / Super Rod
+	Tentacruel / 20 / 20 / 20 / Super Rod
+	
+TOHJO FALLS
+	
+	Golbat / 20 / 20 / 20 / Walking
+	Raticate / 30 / 30 / 30 / Walking
+	Rattata / 5 / 5 / 5 / Walking
+	Slowpoke / 15 / 15 / 15 / Walking
+	Zubat / 30 / 30 / 30 / Walking
+	Goldeen / 60 / 60 / 60 / Surfing
+	Seaking / 10 / 10 / 10 / Surfing
+	Slowpoke / 30 / 30 / 30 / Surfing
+	Goldeen / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Goldeen / 65 / 65 / 65 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Goldeen / 70 / 70 / 70 / Super Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Seaking / 10 / 10 / 10 / Super Rod
+	
+ROUTE 26	
+
+	Arbok / 5 / 5 / - / Grass
+	Doduo / 35 / 35 / - / Grass
+	Noctowl / - / - / 50 / Grass
+	Ponyta / 20 / 20 / - / Grass
+	Quagsire / - / - / 10 / Grass
+	Raticate / 10 / 10 / 40 / Grass
+	Sandslash / 30 / 30 / - / Grass
+	Ekans / 15 / 15 / 15 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Common)
+	Hoothoot / 65 / 65 / 65 / Headbutt (Common)
+	Exeggcute / 20 / 20 / 20 / Headbutt (Rare)
+	Hoothoot / 50 / 50 / 50 / Headbutt (Rare)
+	Pineco / 30 / 30 / 30 / Headbutt (Rare)
+	Tentacool / 90 / 90 / 90 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Tentacool / 15 / 15 / 15 / Old Rod
+	Chinchou / 20 / 20 / 20 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Shellder / 10 / 10 / 10 / Good Rod
+	Tentacool / 35 / 35 / 35 / Good Rod
+	Chinchou / 40 / 40 / 40 / Super Rod
+	Lanturn / 10 / 10 / 10 / Super Rod
+	Shellder / 30 / 30 / 30 / Super Rod
+	Tentacruel / 20 / 20 / 20 / Super Rod
+	
+VICTOORY ROAD	
+
+	Golbat / 40 / 40 / 60 / Walking
+	Graveler / 30 / 30 / 50 / Walking
+	Onix / 20 / 20 / 20 / Walking
+	Rhydon / 5 / 5 / - / Walking
+	Rhyhorn / 30 / 30 / - / Walking
+	Sandslash / 5 / 5 / - / Walking
+	
+VERMILLION	
+
+	Snorlax / 100 / 100 / 100 / Use PokeFlute Radio
+	Tentacool / 90 / 90 / 90 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Tentacool / 15 / 15 / 15 / Old Rod
+	Chinchou / 20 / 20 / 20 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Shellder / 10 / 10 / 10 / Good Rod
+	Tentacool / 35 / 35 / 35 / Good Rod
+	Chinchou / 40 / 40 / 40 / Super Rod
+	Lanturn / 10 / 10 / 10 / Super Rod
+	Shellder / 30 / 30 / 30 / Super Rod
+	Tentacruel / 20 / 20 / 20 / Super Rod
+	
+ROUTE 6	
+
+	Drowzee / - / - / 30 / Grass
+	Granbull / 5 / 5 / - / Grass
+	Jigglypuff / 5 / 5 / 5 / Grass
+	Magnemite / 20 / 20 / 20 / Grass
+	Meowth / - / - / 30 / Grass
+	Psyduck / - / - / 10 / Grass
+	Raticate / 10 / 10 / 5 / Grass
+	Rattata / 30 / 30 / - / Grass
+	Snubbull / 30 / 30 / - / Grass
+	Golduck / 10 / 10 / 10 / Surfing
+	Psyduck / 90 / 90 / 90 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Poliwag / 15 / 15 / 15 / Old Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Poliwag / 65 / 65 / 65 / Good Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Poliwag / 70 / 70 / 70 / Super Rod
+	Poliwhirl / 10 / 10 / 10 / Super Rod
+	
+ROUTE 7	
+
+	Abra / 5 / 5 / 5 / Grass
+	Houndour / - / - / 20 / Grass
+	Jigglypuff / 5 / 5 / 5 / Grass
+	Meowth / - / - / 30 / Grass
+	Murkrow / - / - / 30 / Grass
+	Persian / - / - / 10 / Grass
+	Raticate / 10 / 10 / - / Grass
+	Rattata / 30 / 30 / - / Grass
+	Snubbull / 20 / 20 / - / Grass
+	Spearow / 30 / 30 / - / Grass
+	
+CELADON	
+
+	Grimer / 90 / 90 / 90 / Surfing
+	Muk / 10 / 10 / 10 / Surfing
+	
+TIN TOWER	
+
+	Gastly / - / - / 80 / Walking (2F ~ 9F)
+	Rattata / 100 / 100 / 20 / Walking (2F ~ 9F)
+	Ho-Oh / 100 / 100 / 100 / Rainbow Wing
+	Suicune / 100 / 100 / 100 / Clear Bell
+	
+ROUTE 16	
+
+	Fearow / 45 / 40 / - / Grass
+	Grimer / 50 / 50 / 80 / Grass
+	Muk / 5 / 5 / 5 / Grass
+	Murkrow / - / - / 15 / Grass
+	Slugma / - / 5 / - / Grass
+	
+
+ROUTE 17	
+	Fearow / 40 / 40 / - / Grass
+	Grimer / 55 / 20 / 95 / Grass
+	Muk / 5 / 5 / 5 / Grass
+	Slugma / - / 35 / - / Grass
+	
+ROUTE 16
+	
+	Fearow / 45 / 40 / - / Grass
+	Grimer / 50 / 50 / 80 / Grass
+	Muk / 5 / 5 / 5 / Grass
+	Murkrow / - / - / 15 / Grass
+	Slugma / - / 5 / - / Grass
+	
+FUSCHIA	
+
+	Magikarp / 100 / 100 / 100 / Surfing
+	Magikarp / 100 / 100 / 100 / Old Rod
+	Gyarados / 10 / 10 / 10 / Good Rod
+	Magikarp / 90 / 90 / 90 / Good Rod
+	Gyarados / 30 / 30 / 30 / Super Rod
+	Magikarp / 70 / 70 / 70 / Super Rod
+	
+ROUTE 5	
+
+	Abra / 15 / 15 / 15 / Grass
+	Hoothoot / - / - / 30 / Grass
+	Jigglypuff / 5 / 5 / 5 / Grass
+	Meowth / - / - / 30 / Grass
+	Noctowl / - / - / 20 / Grass
+	Pidgeotto / 20 / 20 / - / Grass
+	Pidgey / 30 / 30 / - / Grass
+	Snubbull / 30 / 30 / - / Grass
+	
+CERULEAN	
+
+	Goldeen / 90 / 90 / 90 / Surfing
+	Seaking / 10 / 10 / 10 / Surfing
+	Krabby / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Corsola / 10 / 10 / - / Good Rod
+	Krabby / 55 / 55 / 55 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Staryu / - / - / 10 / Good Rod
+	Corsola / 30 / 30 / - / Super Rod
+	Kingler / 10 / 10 / 10 / Super Rod
+	Krabby / 60 / 60 / 60 / Super Rod
+	Staryu / - / - / 30 / Super Rod
+	
+ROUTE 9	
+
+	Fearow / 15 / 15 / - / Grass
+	Marowak / 5 / 5 / - / Grass
+	Raticate / 20 / 20 / 25 / Grass
+	Rattata / 30 / 30 / 30 / Grass
+	Spearow / 30 / 30 / - / Grass
+	Venomoth / - / - / 10 / Grass
+	Venonat / - / - / 30 / Grass
+	Zubat / - / - / 5 / Grass
+	Goldeen / 80 / 90 / 90 / Surfing
+	Seaking / 10 / 10 / 10 / Surfing
+	Goldeen / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Goldeen / 65 / 65 / 65 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Goldeen / 70 / 70 / 70 / Super Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Seaking / 10 / 10 / 10 / Super Rod
+	
+ROUTE 10	
+
+	Electabuzz / 5 / 5 / 5 / Grass
+	Fearow / 10 / 10 / - / Grass
+	Marowak / 5 / 5 / - / Grass
+	Raticate / 20 / 20 / 20 / Grass
+	Spearow / 30 / 30 / - / Grass
+	Venomoth / - / - / 10 / Grass
+	Venonat / - / - / 30 / Grass
+	Voltorb / 30 / 30 / 30 / Grass
+	Zubat / - / - / 5 / Grass
+	Goldeen / 80 / 90 / 90 / Surfing
+	Seaking / 10 / 10 / 10 / Surfing
+	Goldeen / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Goldeen / 65 / 65 / 65 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Goldeen / 70 / 70 / 70 / Super Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Seaking / 10 / 10 / 10 / Super Rod
+	
+ROUTE 24
+	
+	Abra / 10 / 10 / 10 / Grass
+	Bellsprout / 5 / 5 / 5 / Grass
+	Butterfree / 5 / 5 / - / Grass
+	Caterpie / 60 / 50 / - / Grass
+	Gloom / - / - / 5 / Grass
+	Metapod / 20 / - / - / Grass
+	Oddish / - / - / 50 / Grass
+	Sunkern / - / 30 / - / Grass
+	Venonat / - / - / 30 / Grass
+	Goldeen / 80 / 90 / 90 / Surfing
+	Seaking / 10 / 10 / 10 / Surfing
+	Goldeen / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Goldeen / 65 / 65 / 65 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Goldeen / 70 / 70 / 70 / Super Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Seaking / 10 / 10 / 10 / Super Rod
+	
+ROUTE 25
+	
+	Bellsprout / 5 / 5 / 5 / Grass
+	Butterfree / 5 / 5 / - / Grass
+	Caterpie / 30 / 30 / - / Grass
+	Metapod / 10 / 10 / - / Grass
+	Noctowl / - / - / 15 / Grass
+	Oddish / - / - / 30 / Grass
+	Pidgeotto / 20 / 20 / - / Grass
+	Pidgey / 30 / 30 / - / Grass
+	Venonat / - / - / 20 / Grass
+	Goldeen / 80 / 90 / 90 / Surfing
+	Seaking / 10 / 10 / 10 / Surfing
+	Goldeen / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Goldeen / 65 / 65 / 65 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Goldeen / 70 / 70 / 70 / Super Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Seaking / 10 / 10 / 10 / Super Rod
+	
+ROUTE 8	
+
+	Abra / 20 / 20 / 20 / Grass
+	Growlithe / 10 / 10 / - / Grass
+	Haunter / - / - / 10 / Grass
+	Jigglypuff / 5 / 5 / 5 / Grass
+	Kadabra / 5 / 5 / 5 / Grass
+	Meowth / - / - / 30 / Grass
+	Noctowl / - / - / 30 / Grass
+	Pidgeotto / 30 / 30 / - / Grass
+	Snubbull / 30 / 30 / - / Grass
+	
+DIGGLET CAVE
+	
+	Diglett / 90 / 90 / 90 / Walking
+	Dugtrio / 10 / 10 / 10 / Walking
+	
+ROUTE 2	
+
+	Butterfree / 10 / 10 / - / Grass
+	Caterpie / 30 / 30 / - / Grass
+	Hoothoot / - / - / 50 / Grass
+	Ledian / 5 / - / - / Grass
+	Ledyba / 30 / - / - / Grass
+	Noctowl / - / - / 10 / Grass
+	Pidgeotto / - / 5 / - / Grass
+	Pidgey / 20 / 50 / - / Grass
+	Pikachu / 5 / 5 / - / Grass
+	Spinarak / - / - / 30 / Grass
+	
+VIRIDIAN
+	
+	Poliwag / 90 / 90 / 90 / Surfing
+	Poliwhirl / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Poliwag / 15 / 15 / 15 / Old Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Poliwag / 65 / 65 / 65 / Good Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Poliwag / 70 / 70 / 70 / Super Rod
+	Poliwhirl / 10 / 10 / 10 / Super Rod
+	
+ROUTE 1	
+
+	Furret / 5 / 5 / - / Grass
+	Hoothoot / - / - / 45 / Grass
+	Pidgey / 45 / 45 / - / Grass
+	Raticate / - / - / 5 / Grass
+	Rattata / 30 / 30 / 50 / Grass
+	Sentret / 20 / 20 / - / Grass
+	
+PALLET	
+
+	Tentacool / 90 / 90 / 90 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Tentacool / 15 / 15 / 15 / Old Rod
+	Chinchou / 20 / 20 / 20 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Shellder / 10 / 10 / 10 / Good Rod
+	Tentacool / 35 / 35 / 35 / Good Rod
+	Chinchou / 40 / 40 / 40 / Super Rod
+	Lanturn / 10 / 10 / 10 / Super Rod
+	Shellder / 30 / 30 / 30 / Super Rod
+	Tentacruel / 20 / 20 / 20 / Super Rod
+	
+ROUTE 21	
+
+	Mr. Mime / 10 / 10 / - / Grass
+	Raticate / 10 / 10 / 10 / Grass
+	Rattata / 30 / 30 / 30 / Grass
+	Tangela / 50 / 50 / 60 / Grass
+	Tentacool / 90 / 90 / 90 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Krabby / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Corsola / 10 / 10 / - / Good Rod
+	Krabby / 55 / 55 / 55 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Staryu / - / - / 10 / Good Rod
+	Corsola / 30 / 30 / - / Super Rod
+	Kingler / 10 / 10 / 10 / Super Rod
+	Krabby / 60 / 60 / 60 / Super Rod
+	Staryu / - / - / 30 / Super Rod
+	
+CINNABAR ISLAND	
+
+	Tentacool / 90 / 90 / 90 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Krabby / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Corsola / 10 / 10 / - / Good Rod
+	Krabby / 55 / 55 / 55 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Staryu / - / - / 10 / Good Rod
+	Corsola / 30 / 30 / - / Super Rod
+	Kingler / 10 / 10 / 10 / Super Rod
+	Krabby / 60 / 60 / 60 / Super Rod
+	Staryu / - / - / 30 / Super Rod
+	
+ROUTE 20
+	
+	Tentacool / 90 / 90 / 90 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Krabby / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Corsola / 10 / 10 / - / Good Rod
+	Krabby / 55 / 55 / 55 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Staryu / - / - / 10 / Good Rod
+	Corsola / 30 / 30 / - / Super Rod
+	Kingler / 10 / 10 / 10 / Super Rod
+	Krabby / 60 / 60 / 60 / Super Rod
+	Staryu / - / - / 30 / Super Rod
+	
+ROUTE 22
+	
+	Doduo / 10 / 10 / - / Grass
+	Fearow / 5 / 5 / - / Grass
+	Poliwag / - / - / 40 / Grass
+	Ponyta / 5 / 5 / - / Grass
+	Rattata / 30 / 30 / 60 / Grass
+	Spearow / 50 / 50 / - / Grass
+	Poliwag / 90 / 90 / 90 / Surfing
+	Poliwhirl / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Poliwag / 15 / 15 / 15 / Old Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Poliwag / 65 / 65 / 65 / Good Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Poliwag / 70 / 70 / 70 / Super Rod
+	Poliwhirl / 10 / 10 / 10 / Super Rod
+	
+ROUTE 3	
+
+	Arbok / 5 / 5 / - / Grass
+	Clefairy / - / - / 5 / Grass
+	Ekans / 20 / 20 / - / Grass
+	Raticate / 10 / 10 / 20 / Grass
+	Rattata / 30 / 30 / 65 / Grass
+	Sandshrew / 5 / 5 / - / Grass
+	Spearow / 30 / 30 / - / Grass
+	Zubat / - / - / 10 / Grass
+	
+MT MOON	
+
+	Clefairy / 5 / 5 / 25 / Walking
+	Geodude / 35 / 35 / 35 / Walking
+	Paras / 10 / 10 / 10 / Walking
+	Sandshrew / 20 / 20 / - / Walking
+	Zubat / 30 / 30 / 30 / Walking
+	
+ROUTE 4	
+
+	Clefairy / 5 / 5 / 25 / Walking
+	Geodude / 35 / 35 / 35 / Walking
+	Paras / 10 / 10 / 10 / Walking
+	Sandshrew / 20 / 20 / - / Walking
+	Zubat / 30 / 30 / 30 / Walking
+	
+ROUTE 19
+	
+	Tentacool / 90 / 90 / 90 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Krabby / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Corsola / 10 / 10 / - / Good Rod
+	Krabby / 55 / 55 / 55 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Staryu / - / - / 10 / Good Rod
+	Corsola / 30 / 30 / - / Super Rod
+	Kingler / 10 / 10 / 10 / Super Rod
+	Krabby / 60 / 60 / 60 / Super Rod
+	Staryu / - / - / 30 / Super Rod
+	
+ROCK TUNNEL 1F	
+
+	Cubone / 30 / 30 / - / Walking
+	Geodude / 30 / 30 / 50 / Walking
+	Haunter / - / - / 10 / Walking
+	Machop / 20 / 20 / - / Walking
+	Machoke / 5 / 5 / - / Walking
+	Marowak / 5 / 5 / - / Walking
+	Zubat / 10 / 10 / 40 / Walking
+	
+ROCK TUNNEL B1F	
+
+	Cubone / 30 / 30 / - / Walking
+	Geodude / 30 / 30 / 30 / Walking
+	Golbat / - / - / 5 / Walking
+	Haunter / - / - / 5 / Walking
+	Kangaskhan / 5 / 5 / - / Walking
+	Marowak / 5 / 5 / - / Walking
+	Onix / 20 / 20 / 20 / Walking
+	Zubat / 10 / 10 / 40 / Walking
+	
+ROUTE 11	
+
+	Drowzee / - / - / 30 / Grass
+	Hoppip / 35 / 35 / - / Grass
+	Hypno / - / - / 5 / Grass
+	Magnemite / 20 / 20 / 20 / Grass
+	Meowth / - / - / 30 / Grass
+	Noctowl / - / - / 10 / Grass
+	Pidgeotto / 10 / 10 / - / Grass
+	Raticate / 30 / 30 / 5 / Grass
+	Rattata / 5 / 5 / - / Grass
+	
+ROUTE 12
+	
+	Quagsire / 30 / 30 / 30 / Surfing
+	Tentacool / 60 / 60 / 60 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Tentacool / 15 / 15 / 15 / Old Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Tentacool / 65 / 65 / 65 / Good Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Qwilfish / 10 / 10 / 10 / Super Rod
+	Tentacool / 70 / 70 / 70 / Super Rod
+	
+ROUTE 13
+	
+	Chansey / 1 / 1 / 1 / Grass
+	Hoppip / 19 / 19 / - / Grass
+	Nidorina / 30 / 30 / - / Grass
+	Nidorino / 30 / 30 / - / Grass
+	Noctowl / - / - / 20 / Grass
+	Pidgeotto / 20 / 20 / - / Grass
+	Quagsire / - / - / 39 / Grass
+	Venomoth / - / - / 10 / Grass
+	Venonat / - / - / 30 / Grass
+	Quagsire / 30 / 30 / 30 / Surfing
+	Tentacool / 60 / 60 / 60 / Surfing
+	Tentacruel / 10 / 10 / 10 / Surfing
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Tentacool / 15 / 15 / 15 / Old Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Tentacool / 65 / 65 / 65 / Good Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Qwilfish / 10 / 10 / 10 / Super Rod
+	Tentacool / 70 / 70 / 70 / Super Rod
+	
+ROUTE 14
+	
+	Chansey / 1 / 1 / 1 / Grass
+	Hoppip / 10 / 10 / - / Grass
+	Nidorina / 30 / 30 / - / Grass
+	Nidorino / 30 / 30 / - / Grass
+	Noctowl / - / - / 20 / Grass
+	Pidgeotto / 20 / 20 / - / Grass
+	Quagsire / - / - / 39 / Grass
+	Skiploom / 9 / 9 / - / Grass
+	Venomoth / - / - / 10 / Grass
+	Venonat / - / - / 30 / Grass
+	
+ROUTE 15	
+
+	Chansey / 1 / 1 / 1 / Grass
+	Hoppip / 10 / 10 / - / Grass
+	Nidorina / 30 / 30 / - / Grass
+	Nidorino / 30 / 30 / - / Grass
+	Noctowl / - / - / 20 / Grass
+	Pidgeotto / 20 / 20 / - / Grass
+	Quagsire / - / - / 39 / Grass
+	Skiploom / 9 / 9 / - / Grass
+	Venomoth / - / - / 10 / Grass
+	Venonat / - / - / 30 / Grass
+	
+ROUTE 28	
+
+	Arbok / 1 / 1 / 1 / Grass
+	Dodrio / 10 / 10 / - / Grass
+	Doduo / 30 / 30 / - / Grass
+	Golbat / 30 / 30 / - / Grass
+	Poliwhirl / - / - / 20 / Grass
+	Ponyta / 20 / 20 / - / Grass
+	Rapidash / - / - / 39 / Grass
+	Tangela / 9 / 9 / - / Grass
+	Poliwag / - / - / 10 / Surfing
+	Poliwhirl / - / - / 30 / Surfing
+	Magikarp / 35 / 35 / 35 / Old Rod
+	Poliwag / 65 / 65 / 65 / Old Rod
+	Magikarp / 20 / 20 / 20 / Good Rod
+	Poliwag / 70 / 70 / 70 / Good Rod
+	Magikarp / 10 / 10 / 10 / Super Rod
+	Poliwag / - / - / 30 / Super Rod
+	Poliwhirl / 10 / 10 / 10 / Super Rod
+	
+MT SILVER 1F	
+
+	Golbat / - / 5 / 45 / Walking
+	Golduck / - / - / 5 / Walking
+	Graveler / 30 / 30 / 30 / Walking
+	Larvitar / - / 5 / - / Walking
+	Magmar / - / 10 / - / Walking
+	Onix / 20 / 20 / 20 / Walking
+	Ursaring / - / 30 / - / Walking
+	
+MT SILVER 2F
+	
+	Golbat / - / 30 / 50 / Walking
+	Golduck / - / - / 30 / Walking
+	Larvitar / - / 5 / - / Walking
+	Machoke / - / 30 / - / Walking
+	Misdreavus / - / - / 10 / Walking
+	Parasect / 15 / 15 / 10 / Walking
+	Ursaring / - / 20 / - / Walking
+	Goldeen / 10 / 10 / 10 / Surfing
+	Golduck / 30 / 30 / 30 / Surfing
+	Seaking / 60 / 60 / 60 / Surfing
+	Goldeen / 15 / 15 / 15 / Old Rod
+	Magikarp / 85 / 85 / 85 / Old Rod
+	Goldeen / 65 / 65 / 65 / Good Rod
+	Magikarp / 35 / 35 / 35 / Good Rod
+	Goldeen / 70 / 70 / 70 / Super Rod
+	Magikarp / 20 / 20 / 20 / Super Rod
+	Seaking / 10 / 10 / 10 / Super Rod
+	
+MT SILVER CHAMBERS
+	
+	Golbat / 80 / 80 / 50 / Walking
+	Misdreavus / - / - / 30 / Walking
+	Parasect / 20 / 20 / 20 / Walking
+	
+MT SILVER SUMMIT
+	
+	Golbat / 50 / 40 / 45 / Walking
+	Golduck / - / - / 5 / Walking
+	Graveler / 20 / 20 / 20 / Walking
+	Larvitar / - / 9 / - / Walking
+	Onix / 30 / 20 / 30 / Walking
+	Pupitar / - / 1 / - / Walking
+	Ursaring / - / 10 / - / Walking
